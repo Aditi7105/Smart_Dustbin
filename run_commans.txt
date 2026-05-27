@@ -1,0 +1,2 @@
+npx http-server  // frontend start
+npm run dev // backend start
